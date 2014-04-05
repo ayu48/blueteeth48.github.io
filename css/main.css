@@ -1,8 +1,40 @@
+html, body {
+    width: 100%;
+    height: 100%;
+}
+
 body {
     font-family: 'Quicksand', sans-serif;
     font-weight: 400;
 }
 
+body > div {
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+    background:transparent center no-repeat;
+    background-size:cover;
+}
+
 .navbar {
+    opacity: 0.9;
+}
+
+#top {
+    width: 100%;
+    height: 90%;
+    background-size: cover;
+    position: fixed;
+    background-image: url("../img/fishing.jpg");
+    //background-color: deeppink;
+}
+
+#top-body {
+    line-height: 500px;
+    vertical-align: middle;
+    text-align: center;
+    font-size: 50px;
+    color: #ffffff;
     opacity: 0.9;
 }
