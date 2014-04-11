@@ -33,13 +33,20 @@ body {
 
 #about {
     text-align: center;
-    margin: 60px;
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-top: 60px;
+    margin-bottom: 200px;
 }
 
 hr {
     margin-bottom: 120px;
     margin-top: 120px;
     width: 50%;
+}
+
+i {
+    margin: 15px;
 }
 
 .headline {
