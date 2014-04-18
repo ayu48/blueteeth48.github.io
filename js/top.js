@@ -5,7 +5,5 @@ $(window).load(function() {
             {src: 'img/clouds.jpg', fade: 2000},
             {src: 'img/wedding.jpg', fade: 2000}
         ]
-    })('overlay', {
-        src: 'img/overlay.png'
     });
 })
