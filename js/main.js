@@ -7,7 +7,7 @@ $(window).load(function() {
         ]
     });
     instagram.show();
-})
+});
 
 //FIXME!!!
 var instagram = {
