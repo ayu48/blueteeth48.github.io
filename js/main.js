@@ -1,4 +1,8 @@
 $(window).load(function() {
+    $.vegas('overlay', {
+        src: 'img/ie-overlay.png',
+        opacity: 0.5
+    });
     $.vegas('slideshow', {
         backgrounds: [
             {src: 'img/fishing.jpg', fade: 2000},
