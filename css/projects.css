@@ -1,7 +1,10 @@
 body {
-    margin-top: 50px;
     background: #f6f6f6;
     font-family: 'Open Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.content {
+    margin-top: 100px;
 }
 
 h1,
