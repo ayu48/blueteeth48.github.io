@@ -7,7 +7,7 @@ $(window).load(function() {
         backgrounds: [
             {src: 'img/fishing.jpg', fade: 2000},
             {src: 'img/clouds.jpg', fade: 2000},
-            {src: 'img/wedding.jpg', fade: 2000}
+            {src: 'img/ume.jpg', fade: 2000}
         ]
     });
     instagram.show();
